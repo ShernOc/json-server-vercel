@@ -151,5 +151,37 @@
       "description": "Delinquent teen-agers ingest a substance and grow thirty feet tall, then proceed to take over a small town.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/37991/p37991_v_v8_aa.jpg"
     }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Call mom",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Finish project report",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Clean the house",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Pay utility bills",
+      "completed": true
+    },
+    {
+      "title": "title-1",
+      "completed": false,
+      "id": 6
+    }
   ]
 }
